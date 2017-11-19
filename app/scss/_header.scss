@@ -30,7 +30,7 @@ header {
         width: 300px;
         .fa{
             @include fa-header;
-//            line-height: 45;
+            line-height: 45px;
         }
         span{
             display: block;
